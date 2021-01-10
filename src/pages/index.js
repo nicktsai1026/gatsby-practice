@@ -8,7 +8,7 @@ export default function Home() {
       <p>Hello world!!</p>
       <img src="https://source.unsplash.com/random/400x300" alt="" />
       <br></br>
-      <button class="primary-button">Click me</button>
+      <button className="primary-button">Click me</button>
       <Route></Route>
     </div>
   ) 
